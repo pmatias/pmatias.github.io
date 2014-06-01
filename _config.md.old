@@ -1,0 +1,12 @@
+# Site settings
+title: Pablo Fabregat
+email: pablo.fabregat@gmail.com
+description: "Random thoughts, technology and stuff that no one cares."
+baseurl: ""
+url: "http://pablofabregat.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+twitter: "p4bl3"
