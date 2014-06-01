@@ -1,5 +1,5 @@
 title:            Pablo Fabregat
-tagline:          
+tagline:          Yeah, well...
 description:      Code, technical stuff and random things that no one cares
 url:              http://pablofabregat.com
 
@@ -46,8 +46,9 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter:    true
+highlighter:  true
 markdown:    kramdown
+permalink: pretty
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
