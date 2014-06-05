@@ -13,16 +13,15 @@ A  quick word about Drupal on Dreamhost: *don't*, really, _don't do it_. The Dre
 
 Anyway, quick steps for installing Drush on your Dreamhost shared account. First of all, you will need to login via SSH to your host, also, since is a shared account, you need to make this changes only for you. Also, you will be installing drush via PEAR, so we will set up PEAR first.
 
-1. Create an instance of PEAR
+*Create an instance of PEAR*
     
-    pear config-create ${HOME} ${HOME}/.pearrc
-    pear install -o PEAR
+  pear config-create ${HOME} ${HOME}/.pearrc
+  pear install -o PEAR
 
-2. Edit your ~/.bash_profile file
-3. Add the following lines at the end of it
+*Edit your ~/.bash_profile file and add the following lines at the end of it*
 
-    export PHP_PEAR_PHP_BIN=/usr/local/php53/bin/php
-    export PATH=${HOME}/pear:/usr/local/php53/bin:${PATH}
+  export PHP_PEAR_PHP_BIN=/usr/local/php53/bin/php
+  export PATH=${HOME}/pear:/usr/local/php53/bin:${PATH}
 
 4. Reload your bash profile
   
@@ -39,4 +38,4 @@ I took all this easy instructions from [Robin Monks](http://robinmonks.com/2012/
 
 Also, he suggest all the instructions in one single line, pretty neat, isn't it?
 
-    pear config-create ${HOME} ${HOME}/.pearrc;pear install -o PEAR;echo "export PHP_PEAR_PHP_BIN=/usr/local/php53/bin/php" >> ~/.bash_profile;echo 'export PATH=${HOME}/pear:/usr/local/php53/bin:${PATH}' >> ~/.bash_profile;. ~/.bash_profile;pear channel-discover pear.drush.org;pear install drush/drush
+    pear config-create ${HOME} ${HOME}/.pearrc;pear install -o PEAR;echo "export PHP_PEAR_PHP_BIN=/usr/local/php53/bin/php" >> ~/.bash_profile;echo 'export PATH=${HOME}/pear:/usr/local/php53/bin:${PATH}' >> ~/.bash_profile;. ~/.bash_profile;peuar channel-discover pear.drush.org;pear install drush/drush
