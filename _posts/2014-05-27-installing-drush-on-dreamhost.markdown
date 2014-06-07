@@ -25,7 +25,7 @@ Anyway, quick steps for installing Drush on your Dreamhost shared account. First
 - Reload your bash profile   
 `. ~/.bash_profile`   
 
-- Now install that cheeky Drush
+- Now install that cheeky Drush  
 `pear channel-discover pear.drush.org`   
 `pear install drush/drush`   
 
