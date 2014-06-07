@@ -47,12 +47,17 @@ timezone:    America/New_York
 future:      true
 highlighter:  true
 markdown:    kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
 permalink: pretty
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
+redcarpet:
+  extensions: []
+
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
@@ -62,7 +67,7 @@ kramdown:
   coderay:
     coderay_line_numbers: 
     coderay_line_numbers_start: 1
-    coderay_tab_width: 4
+    coderay_tab_width: 2
     coderay_bold_every: 10
     coderay_css: class
 
