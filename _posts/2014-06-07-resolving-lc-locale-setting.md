@@ -33,4 +33,4 @@ This not new, I remember seeing this message back in my old days of Slackware, a
 LC_ALL="en_GB.UTF-8"    
 ```   
 (you should check which locale files are installed_-with the `locale -a` command-_ on your droplet before setting that variable)    
-Now, as far as I know, logging out and in(or just calling `source /etc/environment`) should do the trick, but rebooting a droplet in DO takes like literally 15 seconds, and at this point it is mostly certain that you droplet it's in its early configuration so rebooting will cause no harm :)
+Now, as far as I know, logging out and in(or just calling `source /etc/environment`) should do the trick, but rebooting a droplet in DO takes like literally 15 seconds, and at this point it is mostly certain that you droplet it's in its early configuration stages so rebooting will cause no harm :)
