@@ -16,7 +16,7 @@ My first approach to computers was when I was six years old, someone introduced 
 
 Later on, by cosmic chance, someone gave me a PC as a gift, and the party got started. First getting my hands on different software(5¼" diskettes FTW!), trying out everything, and then I moved to disassembling and assembling the computer again, several times(most of them failed :P). It was a really great game for me, and then, when I was finishing primary school, my best friend's brother gave me a programming book with the following words coming out of his mouth: _now the game will get really interesting for you_. It was a Pascal programming book. The game got interesting indeed.
 
-And then I've spent all my high school learning how to be a developer(and having several summer jobs thanks to that!). I went from Pascal to Basic, Visual Basic, Delphi, C and even some assembler in the middle. And by the time I was finishing high school, I become obsessed with web technologies(by that time, PHP4 was in all its glory). Then I got my first _real_ job.
+And then I've spent all my high school learning how to be a developer(and having several summer jobs thanks to that!). I went from Pascal to Basic, Visual Basic, Delphi, C and even some assembler in the middle. And by the time I was finishing high school, I became obsessed with web technologies(by that time, PHP4 was in all its glory). Then I got my first _real_ job.
 
 ## What I've learnt
 
