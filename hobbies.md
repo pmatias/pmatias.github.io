@@ -22,6 +22,6 @@ Nowadays I'm slowly putting together my own projects like <a href="https://sound
 
 I've always been <a markdown="0" href="http://pfabregat.deviantart.com/gallery/" target="_blank">passionate about photography</a>, but I've recently bought a good camera and I've started a proper <a markdown="0" href="http://behance.net/pablitt/" target="_blank">photography profile</a> where I experiment with different techniques, settings and lenses. And, of course, my cats.
 
-## Running
+## Exercising
 
-There is not much to say about this one, <a target="_blank" markdown="0" href="http://runkeeper.com/user/pablitt/profile">I love running!</a> I also love Basketball, but I don't play as much as I'd like :)
+There is not much to say about this one, <a target="_blank" markdown="0" href="http://runkeeper.com/user/pablitt/profile">I love running</a> and cycling!. I also love Basketball, but I don't play as much as I'd like :)
