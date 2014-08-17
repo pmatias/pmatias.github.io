@@ -31,7 +31,6 @@ bing_verify:
 links:
   - title: Home
     url: http://www.pablofabregat.com/
-    external: true
   - title: Experience
     url: /experience/
   - title: Hobbies
