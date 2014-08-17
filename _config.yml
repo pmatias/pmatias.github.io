@@ -1,8 +1,8 @@
 title:            Pablo Fabregat
 tagline:          Yeah, well...
 description:      Code, technical stuff and random things that no one cares
-url: http://pablofabregat.com
-#url: http://localhost:4000
+#url: http://pablofabregat.com
+url: http://localhost:4000
 
 # Owner/author information
 owner:
@@ -30,16 +30,11 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: http://www.pablofabregat.com/
-    external: true
+    url: /
   - title: Experience
     url: /experience/
   - title: Hobbies
     url: /hobbies/
-#  - title: Setup
-#    url: /theme-setup/
-#  - title: T-Details
-#    url: /technical-details/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
