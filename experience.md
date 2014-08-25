@@ -18,9 +18,9 @@ Later on, by cosmic chance, someone gave me a PC as a gift, and the party got st
 
 And ever since then I've spent all my high school learning how to be a developer(and having several summer jobs thanks to that!). I went from Pascal to Basic, Visual Basic, Delphi, C and even some assembler in the middle. And by the time I was finishing high school, I became obsessed with web technologies(by that time, PHP4 was in all its glory). Then I got my first _real_ job.
 
-## What I've learnt
+## What I learnt
 
-Since I started working I've learnt lots of different skills, technologies, and even languages(I'm currently learning Dutch and French, and before that I learnt Portuguese). I've worked on different companies and as a freelancer, so I've managed to achieve an interesting list:
+Since I started working I learnt lots of different skills, technologies, and even languages(I'm currently learning Dutch and French, and before that I learnt Portuguese). I've worked on different companies and as a freelancer, so I've managed to achieve an interesting list:
 
 ### As a developer
 
