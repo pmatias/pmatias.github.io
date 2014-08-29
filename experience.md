@@ -6,7 +6,7 @@ tagline: My technical experience
 tags: [coding, sysadmin]
 modified: 8-6-2014
 image:
-  feature: holambra-01.jpg
+  feature: emily2.jpg
   credit: Me
   creditlink: http://behance.net/pablitt
 ---

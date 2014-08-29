@@ -6,7 +6,7 @@ tagline: Music, Photography and Running
 tags: [music, photography, running]
 modified: 8-6-2014
 image:
-  feature: holambra-01.jpg
+  feature: city.jpg
   credit: Me
 creditlink: http://behance.net/pablitt
 ---
