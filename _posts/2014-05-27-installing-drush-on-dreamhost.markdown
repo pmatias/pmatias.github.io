@@ -3,6 +3,7 @@ layout: post
 title:  "Installing Drush on Dreamhost shared server"
 date:   2014-05-27 21:15:38
 categories: drush drupal tips
+share: true
 ---
 
 So a year ago I've done a freelance drupal job, you know, the kind of quick-and-dirty-money-freelance-job that you completely wipe of your memory after is done, and it came back to bite my ass, no surprises there. So I needed to change some stuff over here and fix other over there, but a year ago I didn't even bother on using drush, now I can't live without it on my Drupal projects.  

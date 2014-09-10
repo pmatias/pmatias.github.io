@@ -3,6 +3,7 @@ layout: post
 title:  "The importance of having extracurricular activities and how can help you in your career (Part I)"
 date:   2014-08-17 17:15:38
 categories: health career IT
+share: true
 ---
 
 Since I've been living in another country(that's nine months ago), and a three month rest period after a surgery, I've been trying to re-establish my old routine of not being a big sedentary _not-so-young-anymore_ man, and because it's so easy just to sit on my sofa with my laptop watching re-runs of Lost, X-Files and Friends, I had a really hard time finding the motivation to get up and do something about it. And this is not new for me, I have a degree on sitting in front of the computer and avoid exercise for almost all my life(let's be fair, you all are a little bit like that :P). And since I was gaining a little too much weight, it was about time to change the perspective about how I was treating my body.
