@@ -4,6 +4,7 @@ title:  "Yes, you CAN revert a git push --force on Github"
 date:   2015-01-10 17:15:38
 categories: git 
 share: true
+comments: true
 ---
 
 ## A small introduction

@@ -4,6 +4,7 @@ title:  "Solving the 'Setting locale failed' error"
 date:   2014-05-27 21:15:38
 categories: digital-ocean ubuntu linux
 share: true
+comments: true
 ---
 
 Every time that I start a new droplet in [DO](http://www.digitalocean.com/)(very happy with the service so far, thank you very much), I have this annoying message every time I try to make a system change(installing packages, for instance):

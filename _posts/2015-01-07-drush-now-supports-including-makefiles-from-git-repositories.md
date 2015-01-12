@@ -4,6 +4,7 @@ title:  "Drush now supports including makefiles from git repositories"
 date:   2015-01-07 09:15:38
 categories: git drush
 share: true
+comments: true
 ---
 
 One of my clients works with multiple makefiles for hundreds of different projects, and we are currently working on a better way to organise several dozens of makefiles. One approach that we've found to be very practical for us is the following _example_ structure:

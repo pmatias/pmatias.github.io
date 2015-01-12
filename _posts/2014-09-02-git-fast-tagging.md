@@ -4,6 +4,7 @@ title:  "Git fast tagging"
 date:   2014-09-02 09:15:38
 categories: git
 share: true
+comments: true
 ---
 
 Let's say I have a new stable version to release and I want to back up the current one.
