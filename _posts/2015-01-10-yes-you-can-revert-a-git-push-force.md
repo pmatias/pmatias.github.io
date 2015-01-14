@@ -98,3 +98,5 @@ A few next steps about what we did in this post:
 - Check that your your global push.default behaviour is set to _current_ (this will push only the current branch you're on instead of everything).
 - The Internet is your very best friend when something like this goes south.
 - Don't Panic!
+
+**Update 14-01**: Here are some nice [25 tips for intermediate git users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/)
