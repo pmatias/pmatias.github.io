@@ -99,4 +99,4 @@ A few next steps about what we did in this post:
 - The Internet is your very best friend when something like this goes south.
 - Don't Panic!
 
-**Update 14-01**: Here are some nice [25 tips for intermediate git users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/)
+**Update 14-01**: Here are some nice [25 tips for intermediate git users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/).
