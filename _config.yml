@@ -14,21 +14,21 @@ owner:
   email:          pablo.fabregat@gmail.com
 
   twitter:        pablitt
-  facebook:       
+  facebook:
   github:         pmatias
   linkedin:       pablofabregat
   instagram:      pfabregat
-  lastfm:         
-  tumblr:         
-  google_plus:    
+  lastfm:
+  tumblr:
+  google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background:
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-56519-9   
-google_verify: naUxEwhQW8HaQOHKxcspKrfp3R-8OsQ10g3WWWF2T0M      
+google_analytics: UA-56519-9
+google_verify: naUxEwhQW8HaQOHKxcspKrfp3R-8OsQ10g3WWWF2T0M
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -39,6 +39,8 @@ links:
     url: /experience/
   - title: Hobbies
     url: /hobbies/
+  - title: Live!
+    url: /live/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
