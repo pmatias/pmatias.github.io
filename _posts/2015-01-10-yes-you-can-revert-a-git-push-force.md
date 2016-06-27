@@ -33,7 +33,7 @@ You git push --force your branch, and your push.default behaviour is not set, so
 
 You overwrite the master branch (and maybe other main branches that you had in your local repository) with a two months old code.
 
-Well. **Fuck**.
+**Oops**.
 
 Take a deep breath, sit back (or stand back, if you work on a standing desktop), and **don't panic**.
 
