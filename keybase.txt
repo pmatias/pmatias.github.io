@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/pablitt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pablofabregat.com
+  * I am pablitt (https://keybase.io/pablitt) on keybase.
+  * I have a public key ASApCZp-0gxNhOEFJ2BGnA65aSYRBWNRJf9eSbSJYsvYAgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012029099a7ed20c4d84e1052760469c0eb969261105635125ff5e49b48962cbd8020a",
+            "host": "keybase.io",
+            "kid": "012029099a7ed20c4d84e1052760469c0eb969261105635125ff5e49b48962cbd8020a",
+            "uid": "3e819853c3c8c7069c9bff89415a2b00",
+            "username": "pablitt"
+        },
+        "service": {
+            "hostname": "pablofabregat.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487419698,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487419611,
+        "hash": "165655ba0f1d1824e6b38578a3fa2f665948b87e249fcd61af52baf5b3e39a3dd4c68a0e3d922b744a053c5e56b084b58e0564dd6b13f3259216a8f4e2047497",
+        "seqno": 903184
+    },
+    "prev": "5a93e712213f14b9daaebd8b8389f9226d0229af69303f27a4b5077b3f61e872",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKQmaftIMTYThBSdgRpwOuWkmEQVjUSX/Xkm0iWLL2AIKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjkwOTlhN2VkMjBjNGQ4NGUxMDUyNzYwNDY5YzBlYjk2OTI2MTEwNTYzNTEyNWZmNWU0OWI0ODk2MmNiZDgwMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjkwOTlhN2VkMjBjNGQ4NGUxMDUyNzYwNDY5YzBlYjk2OTI2MTEwNTYzNTEyNWZmNWU0OWI0ODk2MmNiZDgwMjBhIiwidWlkIjoiM2U4MTk4NTNjM2M4YzcwNjljOWJmZjg5NDE1YTJiMDAiLCJ1c2VybmFtZSI6InBhYmxpdHQifSwic2VydmljZSI6eyJob3N0bmFtZSI6InBhYmxvZmFicmVnYXQuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NzQxOTY5OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg3NDE5NjExLCJoYXNoIjoiMTY1NjU1YmEwZjFkMTgyNGU2YjM4NTc4YTNmYTJmNjY1OTQ4Yjg3ZTI0OWZjZDYxYWY1MmJhZjViM2UzOWEzZGQ0YzY4YTBlM2Q5MjJiNzQ0YTA1M2M1ZTU2YjA4NGI1OGUwNTY0ZGQ2YjEzZjMyNTkyMTZhOGY0ZTIwNDc0OTciLCJzZXFubyI6OTAzMTg0fSwicHJldiI6IjVhOTNlNzEyMjEzZjE0YjlkYWFlYmQ4YjgzODlmOTIyNmQwMjI5YWY2OTMwM2YyN2E0YjUwNzdiM2Y2MWU4NzIiLCJzZXFubyI6MTEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAREhj0lJ4l0myGpVrq2MVS38Q+3aqh7xfQsLpkB/XYtKZvxvQGr3NULSo3zU+DL4GSkF8W1mH9GWqEqqAnS4ABahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK9nPNkbJfcf+OTKWvNTdbg2KxFpueoMuVav92ARfuuVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pablitt
+
+==================================================================
