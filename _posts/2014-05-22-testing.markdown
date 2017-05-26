@@ -1,0 +1,12 @@
+---
+title:  "Hello World"
+date:   2014-05-23 01:15:38
+categories: general
+---
+
+My _first_ post in Jekyll!
+
+Here, have a kitten image
+![A Kitten]({{ site.url }}/files/kitten.jpg)
+
+And expect lots of mistakes and meaningless posts
