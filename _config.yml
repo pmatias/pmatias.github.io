@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 # baseurl: "/"
-url: "https://pmatias.github.io"
+url: "https://pablofabregat.com"
 title: Pablo Fabregat # site's title
 description: "Pablo Fabregat's thoughts on random stuff. Mostly technology." # used by search engines
 
@@ -56,7 +56,7 @@ theme_settings:
       enabled: true
     tags:
       icon: "tags"
-      enabled: true
+      enabled: false
   
   # Localization strings
   str_follow_on: "Follow on"

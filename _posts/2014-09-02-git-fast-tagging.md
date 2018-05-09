@@ -2,7 +2,7 @@
 layout: post
 title:  "Git fast tagging"
 date:   2014-09-02 09:15:38
-categories: git
+categories: [git]
 share: true
 comments: true
 ---

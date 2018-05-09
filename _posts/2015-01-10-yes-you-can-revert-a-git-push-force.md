@@ -2,7 +2,7 @@
 layout: post
 title:  "Yes, you CAN revert a git push --force on Github"
 date:   2015-01-10 17:15:38
-categories: git
+categories: [git]
 share: true
 comments: true
 excerpt_separator: <!--more-->

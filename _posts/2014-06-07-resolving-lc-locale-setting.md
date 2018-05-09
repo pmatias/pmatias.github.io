@@ -2,7 +2,7 @@
 layout: post
 title:  "Solving the 'Setting locale failed' error"
 date:   2014-05-27 21:15:38
-categories: digital-ocean ubuntu linux
+categories: [digital-ocean, ubuntu, linux]
 share: true
 comments: true
 ---

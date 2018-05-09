@@ -2,7 +2,7 @@
 layout: post
 title:  "You suck at technical interviews"
 date:   2014-09-10 09:15:38
-categories: git
+categories: [career]
 share: true
 link: http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews
 ---
