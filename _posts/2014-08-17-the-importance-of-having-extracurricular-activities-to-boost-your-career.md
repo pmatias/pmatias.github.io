@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "The importance of having extracurricular activities and how can help you in your career (Part I)"
 date:   2014-08-17 17:15:38
 categories: health career IT

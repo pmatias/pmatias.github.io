@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Installing Drush on Dreamhost shared server"
 date:   2014-05-27 21:15:38
 categories: drush drupal tips
