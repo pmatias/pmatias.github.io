@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Drush now supports including makefiles from git repositories"
 date:   2015-01-07 09:15:38
 categories: git drush

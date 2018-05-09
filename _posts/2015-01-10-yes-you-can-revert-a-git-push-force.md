@@ -1,14 +1,16 @@
 ---
+layout: post
 title:  "Yes, you CAN revert a git push --force on Github"
 date:   2015-01-10 17:15:38
 categories: git
 share: true
 comments: true
+excerpt_separator: <!--more-->
 ---
 ## A small introduction
 
 We're always making mistakes (_we're only humans_), specially when you work on IT. Unless you do something that involves having the lives of others in your hands, making mistakes is OK. The important thing about it is to learn from them, and try to solve them as efficient as possible.
-
+<!--more-->
 So, the first rule of the _make-a-mistake-club_ is: [Don't Panic](http://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy).
 
 As I was saying, making mistakes when you work on IT is common (after all, it's a trial and error business), it's expected, and you're encouraged to make them. If you don't believe that this is true, then you're maybe in the wrong career.
