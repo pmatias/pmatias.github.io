@@ -33,7 +33,7 @@ theme_settings:
   google_plus:
   instagram: "phabregat"
   keybase: "pablitt"
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/pablofabregat/
   pinterest:
   reddit:
   soundcloud:
@@ -46,7 +46,7 @@ theme_settings:
   youtube:
 
   # Scripts / Features 
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-56519-9" # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname: "pablofabregat"
   katex: true # Enable if using math markup
   
