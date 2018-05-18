@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I quit streaming (for now)"
-date:   2018-05-09 17:15:38
+date:   2018-05-18 20:00:38
 categories: [Gaming, Streaming]
 thumbnail: "assets/img/posts/twitch2.jpg"
 feature-img: "assets/img/posts/desktop.jpg"
