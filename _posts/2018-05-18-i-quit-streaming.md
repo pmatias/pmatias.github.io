@@ -38,7 +38,7 @@ I had **A LOT** of fun during these past four years of streaming. I've met the m
 
 But I'm burnt out, and if it's not fun, and I'm not getting paid to do it, then why do it, right?
 
-There're some big changes in my life coming up this year (good changes), and hopefully, once I'm settled in again, my energies will be renewed to give it another go. In the meantime, I'll focus on my work, maybe keep updated this blog, and [keep taking pictures](https://www.phabregat.com/).
+There're some big changes in my life coming up this year (good changes), and hopefully, once I'm settled in again, my energies will be renewed to give it another go. In the meantime, I'll focus on my work, maybe keep updated this blog, and [keep taking pictures](http://www.phabregat.com/).
 
 See you soon, community!
 
