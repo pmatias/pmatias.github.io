@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 # baseurl: "/"
 url: "https://pablofabregat.com"
-title: Pablo Fabregat # site's title
-description: "Pablo Fabregat's thoughts on random stuff. Mostly technology." # used by search engines
+title: Lambda Vector's random thoughts # site's title
+description: "Lambda Vector's thoughts on random stuff. Mostly technology." # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Pablo Fabregat # blog's title
+  title: Lambda Vector # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -22,8 +22,8 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # pablo.fabregat@gmail.com # Full email address, e.g. "sam@example.com"
-  behance: "pablitt"
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance: 
   bitbucket:
   dribbble:
   facebook:
@@ -31,16 +31,16 @@ theme_settings:
   gitlab:
   github: "pmatias"
   google_plus:
-  instagram: "phabregat"
+  instagram: 
   keybase: "pablitt"
-  linkedin:  https://www.linkedin.com/in/pablofabregat/
+  linkedin:  https://www.linkedin.com/in/lambdavector/
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "pablitt"
+  twitter: 
   vimeo:
   wordpress:
   youtube:
